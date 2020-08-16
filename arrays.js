@@ -12,4 +12,7 @@ function addElementToEndOfArray() {
   
 }
 
-function 
+function destructivelyAddElementToEndOfArray() {
+  
+}
+
